@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>s</title>
+<style type="text/css" media="all">
+body{
+background:gray;
+}
+div.mainbox{
+border:10px dashed black ;
+
+margin:0px 170px;
+width:1000px;
+height:590px;
+
+-moz-border-radius:10px;
+
+}
+div.box{
+border:15px outset black;
+width:500px;
+height:440px;
+padding:10px;
+margin:20px 220px;
+-moz-border-radius:20px;
+}
+h1{
+font-family:sans-sarif;
+font-style:italic;
+text-align:center;
+letter-spacing:8px;
+color:darkblue;
+text-decoration:underline;
+}
+p{
+font-family:monospace;
+font-size:20px;
+clear:left
+}
+input[text][password]{
+float:right;
+}
+input[type='submit']{
+display:block;
+margin:16px 3px;
+}
+</style>
+</head>
+<body>
+<div class="mainbox">
+
+<B><h1>ENTER UR DETAILS</h1></b>
+<div class="box">
+<form action="database.php" method="POST">
+<p>username:</p><input type="text" name="username">
+<p>sex:</p><p>male</p><input type="radio" name="sex" value="male"><p>female</p><input type="radio" name="sex" value="female">
+<p>password:</p><input type="password" name="password">
+<input type="submit" value="send">
+</form>
+</div>
+</div>
+</body>
+</html>
