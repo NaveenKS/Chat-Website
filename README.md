@@ -3,7 +3,9 @@ Chat-Website
 
 This project was done to implement some basic php,jquery commands. 
 
-Web languages : HTML,PHP,JQUERY,SQL.
+Web languages : HTML,PHP,JQUERY
+
+Database language : SQL
 
 Description: Simple chatting website.  
 
