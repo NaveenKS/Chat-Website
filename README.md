@@ -1,6 +1,6 @@
 #Chat-Website
 
-###This project was done to implement some basic php,jquery commands. 
+#####This project was done to implement some basic php,jquery commands. 
 
 *Web languages : HTML,PHP,JQUERY*
 
