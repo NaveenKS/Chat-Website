@@ -1,24 +1,25 @@
-Chat-Website
-============
+#Chat-Website
 
-This project was done to implement some basic php,jquery commands. 
+###This project was done to implement some basic php,jquery commands. 
 
-Web languages : HTML,PHP,JQUERY
+*Web languages : HTML,PHP,JQUERY*
 
-Database language : SQL
+*Database language : SQL*
 
-Description: Simple chatting website.  
+###Description: 
 
-URL: http://naveenks.webege.com/chatweb/new.html
+Simple chatting website.  
+
+[link for the site] (http://naveenks.webege.com/chatweb/new.html)
 
 Working:
 
-1.Register with username and password.
+- Register with username and password.
 
-2.Login.
+- Login.
 
-3.Check inbox for messages.
+- Check inbox for messages.
 
-4.Chat with the people who are online.
+- Chat with the people who are online.
 
-5.Logout.
+- Logout.
